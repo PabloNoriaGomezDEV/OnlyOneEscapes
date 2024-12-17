@@ -7,9 +7,12 @@
 
 ## 📸 Screenshots  
 
-![Homepage Screenshot](images/screenshots/ss1.png)  
-![Battle Screenshot](images/screenshots/ss2.png)  
-![Winner Screenshot](images/screenshots/ss3.png)  
+![Homepage Screenshot](https://github.com/user-attachments/assets/a082a1ce-418e-4f50-b83d-f576ce3b21eb)
+
+![Battle Screenshot](https://github.com/user-attachments/assets/095f46c4-b1ef-4c27-acc3-d52d1c664882)
+
+![Winner Screenshot](https://github.com/user-attachments/assets/7ffb8981-c482-43ac-b2ba-7f67f919021d)
+
 
 ---
 
